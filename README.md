@@ -12,5 +12,5 @@ To use this, just download the extension, extrack in to the "extensions" folder 
 
 ## Some screenshots:
 
-![main](screenshots/default.jpg)  
+![main](screenshots/default.png)  
 *A sample C# program w/ the Run -> Open File in LinqPad menu*
