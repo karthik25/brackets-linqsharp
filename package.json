@@ -1,0 +1,42 @@
+{
+    "name": "karthik25.brackets-linqsharp",
+
+    "title": "Brackets LinqSharp (by karthik25)",
+    "description": "LinqSharp extension for Brackets",
+    "keywords": ["linqpad", "omnisharp"],
+    "version": "0.1.0",
+
+    "license": "MIT",
+    "homepage": "https://github.com/karthik25/brackets-linqsharp",
+    "author": {
+        "name": "Karthik Anant",
+        "email": "thekfactor@thekfactor.info",
+        "url": "https://github.com/karthik25"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/karthik25/brackets-linqsharp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/karthik25/brackets-linqsharp/issues",
+        "email": "thekfactor@thekfactor.info"
+    },
+
+    "engines": {
+        
+    },
+    "scripts": {
+
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+
+    "i18n": ["en"],
+    "package-i18n": {
+
+    }
+}
